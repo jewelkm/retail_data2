@@ -1,3 +1,4 @@
+# This file contains the code for reading and processing the retail data using PySpark
 import os
 import sys
 
