@@ -1,3 +1,4 @@
+# This file contains the code to read the retail data from Kafka
 import os
 import sys
 
